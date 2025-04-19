@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "publication_year": 2011,
+        "genre": "fiction",
+        "status": "no"
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "publication_year": 2005,
+        "genre": "Mystery",
+        "status": "no"
+    },
+    {
+        "title": "peer e kamil",
+        "author": "Umera Ahmed",
+        "publication_year": 2004,
+        "genre": "Spiritual Fiction ",
+        "status": "yes"
+    },
+    {
+        "title": "Humsafar",
+        "author": "farhat ishtique",
+        "publication_year": 2008,
+        "genre": "romance",
+        "status": "yes"
+    }
+]
